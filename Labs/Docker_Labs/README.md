@@ -1,3 +1,7 @@
+# 📝 **README last updated: February 28, 2026**
+
+_This README was updated to improve clarity and add more practical Docker usage tips._
+
 # Toturial Video
 you can watch the toturial vidoe on my channel [Video](https://youtu.be/stdbAFjHAQY?si=vgOsFnBz_lMUF1X-)
 
